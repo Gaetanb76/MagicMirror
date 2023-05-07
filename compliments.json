@@ -34,14 +34,14 @@
 		"Ill be back. Terminator"
   ],
   "....-01-01": [
-		"Bonne année !" // YYYY-MM-DD ; . can be used as a wildcard
+		"Bonne année !" #// YYYY-MM-DD ; . can be used as a wildcard
   ],
   "....-12-25": [
-		"Joyeux Noël !" // YYYY-MM-DD ; . can be used as a wildcard
+		"Joyeux Noël !"
 
   ],
   "....-05-04": [
-		"May the Force be with you !" // YYYY-MM-DD ; . can be used as a wildcard
+		"May the Force be with you !" #// YYYY-MM-DD ; . can be used as a wildcard
 
   ],
   "day_sunny": [
