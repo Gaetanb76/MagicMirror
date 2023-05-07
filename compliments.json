@@ -1,0 +1,67 @@
+/* MagicMirror² Compliments
+ *
+ * By Michael Teeuw https://michaelteeuw.nl
+ * MIT Licensed.
+ *
+ * Fichier de compliments de Gaëtan Brissot
+ * Déposé dans /home/magicmirror/MagicMirror/modules/default/compliments/
+
+ */
+{
+  "anytime": [
+  		"Bonjour !",
+		"Comment ça va ?",
+		"Un escargot ne recule jamais !",
+		"Je n'ai pas parlé à ma belle-mère depuis 18 mois. Je n'aime pas l'interrompre. Ken Dodd",
+		"Si haut qu'on monte, on finit toujours pas des cendres. Henri Rochefort",
+		"La vie, c'est comme une boîte de chocolats : on ne sait jamais sur quoi on va tomber. Forrest Gump"
+  ],
+  "morning": [
+		"Bien dormi ?",
+ 		"Bonne journée ☺",
+		"Enjoy your day !",
+		"Un café et c'est parti"
+  ],
+  "afternoon": [
+		"La journée continue",
+		"Vivement ce soir qu'on se couche !"
+  ],
+  "evening": [
+		"Bonne soirée !",
+		"Repose-toi bien !",
+		"Bonne nuit...",
+		"Ill be back. Terminator"
+  ],
+  "....-01-01": [
+		"Bonne année !" // YYYY-MM-DD ; . can be used as a wildcard
+  ],
+  "....-12-25": [
+		"Joyeux Noël !" // YYYY-MM-DD ; . can be used as a wildcard
+
+  ],
+  "....-05-04": [
+		"May the Force be with you !" // YYYY-MM-DD ; . can be used as a wildcard
+
+  ],
+  "day_sunny": [
+               	"Aujourd'hui est une journée ensoleillée",
+                "C'est une belle journée!",
+                "Il va faire beau ☼"
+  ],
+  "snow": [
+                "Bataille de boules de neige !",
+                "Concours de Bonhomme de neige"
+  ],
+  "rain": [
+		"N'oublie pas ton parapluie!",
+                "En Normandie on vit pluvieux"
+  ],
+  "thunderstorm": [
+		"Il y a de l'orage dans l'air !"
+  ],
+  "fog": [
+		"Une purée de pois !"
+  ] 
+}
+	
+		
