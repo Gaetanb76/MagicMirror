@@ -1,12 +1,3 @@
-/* MagicMirror² Compliments
- *
- * By Michael Teeuw https://michaelteeuw.nl
- * MIT Licensed.
- *
- * Fichier de compliments de Gaëtan Brissot
- * Déposé dans /home/magicmirror/MagicMirror/modules/default/compliments/
-
- */
 {
   "anytime": [
   		"Bonjour !",
