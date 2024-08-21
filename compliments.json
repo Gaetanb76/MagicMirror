@@ -1,20 +1,22 @@
-/* MagicMirror² Compliments
-
- * By Michael Teeuw https://michaelteeuw.nl
- * MIT Licensed.
- *
- * Fichier de compliments de Gaëtan Brissot
- * Déposé dans /home/magicmirror/MagicMirror/modules/default/compliments/
-
- */
 {
   "anytime": [
-  		"Bonjour !",
+  	"Bonjour !",
 		"Comment ça va ?",
 		"L'escargot ne recule jamais ! Jean Dujardin, Sur les chemins noirs (Alexandre Vialatte)",
 		"Je n'ai pas parlé à ma belle-mère depuis 18 mois. Je n'aime pas l'interrompre. Ken Dodd",
 		"Si haut qu'on monte, on finit toujours pas des cendres. Henri Rochefort",
-		"La vie, c'est comme une boîte de chocolats : on ne sait jamais sur quoi on va tomber. Forrest Gump"
+		"La vie, c'est comme une boîte de chocolats : on ne sait jamais sur quoi on va tomber. Forrest Gump",
+    "Si vous vous concentrez sur ce que vous avez laissé derrière vous, vous ne pourrez jamais voir ce qui vous attend. Ratatouille",
+    "Si j'aurais su, j'aurais pas venu. La Guerre Des Boutons",
+    "Le bonheur n'est réel que lorsqu'il est partagé. Into the wild",
+    "La vie ce n'est pas le nombre d'années pendant lesquelles on respire, ce sont les moments qui vous coupent le souffle. Hitch Expert en séduction",
+    "Je respecte ton avis tu vois mais en même temps c'est pas le mien donc c'est pas le bon. Brice de Nice",
+    "Le meilleur moyen de réaliser l'impossible est de croire que c'est possible. Alice au pays des merveilles",
+    "L'amour rend aveugle, le mariage rend la vue. Mariages",
+    "Les vieux rêves étaient des bons rêves. Ils ne se sont pas réalisés, mais je suis content de les avoir eus.Sur la route de Madison",
+    "La vérité c'est comme une couverture trop petite. Tu peux tirer dessus de tous les côtés, tu auras toujours les pieds froids. Le cercle des poètes disparus",
+    "Cueillez dès aujourd'hui les roses de la vie. Le cercle des poètes disparus",
+    "Je s'appelle Groot"
   ],
   "morning": [
 		"Bien dormi ?",
@@ -30,18 +32,16 @@
 		"Bonne soirée !",
 		"Repose-toi bien !",
 		"Bonne nuit...",
-		"Ill be back. Terminator"
+		"I'll be back. Terminator"
   ],
   "....-01-01": [
-		"Bonne année !" // YYYY-MM-DD ; . can be used as a wildcard
+		"Bonne année !" 
   ],
   "....-12-25": [
-		"Joyeux Noël !" // YYYY-MM-DD ; . can be used as a wildcard
-
+		"Joyeux Noël !"
   ],
   "....-05-04": [
-		"May the Force be with you !" // YYYY-MM-DD ; . can be used as a wildcard
-
+		"May the Force be with you !" 
   ],
   "day_sunny": [
                	"Aujourd'hui est une journée ensoleillée",
