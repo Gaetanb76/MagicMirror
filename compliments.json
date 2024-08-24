@@ -13,16 +13,18 @@
     "Je respecte ton avis tu vois mais en même temps c'est pas le mien donc c'est pas le bon. Brice de Nice",
     "Le meilleur moyen de réaliser l'impossible est de croire que c'est possible. Alice au pays des merveilles",
     "L'amour rend aveugle, le mariage rend la vue. Mariages",
-    "Les vieux rêves étaient des bons rêves. Ils ne se sont pas réalisés, mais je suis content de les avoir eus.Sur la route de Madison",
+    "Les vieux rêves étaient des bons rêves. Ils ne se sont pas réalisés, mais je suis content de les avoir eus. Sur la route de Madison",
     "La vérité c'est comme une couverture trop petite. Tu peux tirer dessus de tous les côtés, tu auras toujours les pieds froids. Le cercle des poètes disparus",
     "Cueillez dès aujourd'hui les roses de la vie. Le cercle des poètes disparus",
-    "Je s'appelle Groot"
+    "Je s'appelle Groot",
+    "C'est quand les vacances ?"
   ],
   "morning": [
 		"Bien dormi ?",
  		"Bonne journée ☺",
 		"Enjoy your day !",
-		"Un café et c'est parti"
+		"Un café et c'est parti !"
+    "Miroir, mon beau miroir, qui est la plus belle ?"
   ],
   "afternoon": [
 		"La journée continue",
@@ -42,6 +44,15 @@
   ],
   "....-05-04": [
 		"May the Force be with you !" 
+  ],
+  "....-06-28": [
+    "Bon anniversaire Virginie" 
+  ],
+  "....-08-06": [
+    "Bon anniversaire Élise" 
+  ],
+  "....-10-08": [
+    "Bon anniversaire Gaëtan" 
   ],
   "day_sunny": [
                	"Aujourd'hui est une journée ensoleillée",
