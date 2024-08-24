@@ -23,7 +23,7 @@
 		"Bien dormi ?",
  		"Bonne journée ☺",
 		"Enjoy your day !",
-		"Un café et c'est parti !"
+		"Un café et c'est parti !",
     "Miroir, mon beau miroir, qui est la plus belle ?"
   ],
   "afternoon": [
@@ -64,7 +64,7 @@
                 "Concours de Bonhomme de neige"
   ],
   "rain": [
-		"N'oublie pas ton parapluie!",
+		            "N'oublie pas ton parapluie!",
                 "En Normandie on vit pluvieux"
   ],
   "thunderstorm": [
